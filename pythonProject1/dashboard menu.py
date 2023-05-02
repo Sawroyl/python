@@ -1,0 +1,5 @@
+book=list()
+n=input("Enter book name: ")
+book.append(n)
+print(book)
+book.insert()
